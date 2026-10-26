@@ -35,6 +35,22 @@ The report contains two pages:
 
 Open the PBIX file with Power BI Desktop to explore the report interactively.
 
+### Dashboard Screenshots
+
+#### 1. Fraud Analysis Overview
+
+This dashboard presents key fraud metrics, fraud rates by transaction type, fraud cases over time, and fraud rates by transaction amount band.
+
+![Fraud Analysis Overview](images/fraud_analysis_overview.png)
+
+#### 2. Balance Analysis
+
+This dashboard compares balance mismatch rates between fraud-labelled and non-fraud transactions.
+
+![Balance Analysis](images/balance_analysis.png)
+
+**Interactive Power BI Report:** Open [`Transaction_Fraud_Analysis.pbix`](reports/Transaction_Fraud_Analysis.pbix) in Power BI Desktop to explore the report interactively.
+
 ## Limitations
 
 - PaySim is a synthetic dataset; results should not be assumed to represent real-world banking fraud.
