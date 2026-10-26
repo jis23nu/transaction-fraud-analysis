@@ -1,0 +1,17 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Large raw dataset and local database
+data/paysim.csv
+data/fraud_analysis.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
